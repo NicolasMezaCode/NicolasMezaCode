@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm Nicolas a Software Developer currently living in Vancouver, Canada. I have a strong passion for web development and everything related to the internet culture. I believe that the user experience is of paramount importance in the web development scene, and that's what drives my passion for frontend development.
+Hello there! 👋 I'm Nicolas a Software Developer currently living in Vancouver, Canada. I have a strong passion for web development and everything related to the internet culture. I believe that the user experience is really important in the web development scene, and that's what drives my passion for frontend development.
 
 ## What I Do
 
