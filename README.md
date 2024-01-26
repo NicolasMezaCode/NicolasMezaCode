@@ -4,7 +4,7 @@ Hello there! 👋 I'm Nicolas a Software Developer currently living in Vancouver
 
 ## What I Do
 
-- 🌐 I'm enthusiastic about both frontend and backend development, but I specialize in crafting outstanding frontend experiences.
+- 🌐 I'm enthusiastic about both frontend and backend development, but I specialize in crafting  frontend experiences.
 
 - 💡 I firmly believe that a successful web project begins with a solid concept that excites users and drives engagement.
 
